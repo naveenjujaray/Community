@@ -40,6 +40,7 @@ dependencies:
   adaptive_navigation: ^0.0.7
   dynamic_color: ^1.5.4
   google_fonts: ^3.0.1
+  responsive_builder: ^0.4.3
 
 dev_dependencies:
   flutter_test:
