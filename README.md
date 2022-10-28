@@ -1,4 +1,4 @@
-# Community [![flutter](https://badgen.net/pub/flutter-platform/xml)](https://flutter.dev) [![](https://img.shields.io/github/stars/naveenjujaray/community?color=yellow&label=Stargazers&style=flat-square)](https://github.com/naveenjujaray/Community/stargazers) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-green.svg)](https://www.gnu.org/licenses/gpl-3.0) ![Forks](https://img.shields.io/github/forks/naveenjujaray/Community?color=orange&style=flat-square)
+# Community [![flutter](https://badgen.net/pub/flutter-platform/xml)](https://flutter.dev) [![Stars](https://img.shields.io/github/stars/naveenjujaray/community?color=yellow&label=Stargazers&style=flat-square)](https://github.com/naveenjujaray/Community/stargazers) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-green.svg)](https://www.gnu.org/licenses/gpl-3.0) ![Forks](https://img.shields.io/github/forks/naveenjujaray/Community?color=orange&style=flat-square)
 
 A new Flutter project.
 
