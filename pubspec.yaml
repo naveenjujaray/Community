@@ -49,7 +49,7 @@ dependencies:
   path_provider: ^2.0.11
   shared_preferences: ^2.0.15
   font_awesome_flutter: ^10.2.1
-  async: ^2.10.0
+  async: ^2.9.0
   bloc: ^8.1.0
 
 dev_dependencies:
