@@ -139,7 +139,7 @@ class _TreeViewPageState extends State<TreeViewPage> {
           decoration: BoxDecoration(
             borderRadius: BorderRadius.circular(20),
             boxShadow: [
-              BoxShadow(color: Colors.red[100] as Color, spreadRadius: 1),
+              BoxShadow(color: Colors.red[100] as Color, spreadRadius: 10),
             ],
           ),
           child: Text('Node ${a}')),
