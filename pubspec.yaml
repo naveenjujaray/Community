@@ -41,6 +41,16 @@ dependencies:
   dynamic_color: ^1.5.4
   google_fonts: ^3.0.1
   responsive_builder: ^0.4.3
+  about: ^2.1.1
+  url_launcher: ^6.1.6
+  get: ^4.6.5
+  adaptive_theme: ^3.1.1
+  http: ^0.13.5
+  path_provider: ^2.0.11
+  shared_preferences: ^2.0.15
+  font_awesome_flutter: ^10.2.1
+  async: ^2.10.0
+  bloc: ^8.1.0
 
 dev_dependencies:
   flutter_test:
